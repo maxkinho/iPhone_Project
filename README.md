@@ -1,4 +1,4 @@
-# Aplicativo Multifuncional
+# Iphone Project
 
 Este é um aplicativo Java simples que implementa algumas funcionalidades básicas do iPhone I lançado em 2007 pela Apple,
 as funcionalidades são, um Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
